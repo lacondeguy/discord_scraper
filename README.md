@@ -1,2 +1,2 @@
-# discord_scraper
-Simple Discord text scraper
+# discord scraper
+Simple Discord text scraper from few channels
