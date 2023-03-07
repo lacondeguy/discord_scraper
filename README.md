@@ -1,2 +1,2 @@
 # discord scraper
-Simple Discord text scraper from few channels
+A simple discord text parser from multiple channels using requests.
